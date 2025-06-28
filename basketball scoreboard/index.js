@@ -38,7 +38,7 @@ function rightplusThree(){
 }
 
 function reset(){
-    countEl.textContent = 0
+    countEl.textContent = "00"
     countEll.textContent = 0
     sum = 0
     num = 0
